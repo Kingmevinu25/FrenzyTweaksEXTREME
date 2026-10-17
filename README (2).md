@@ -7,7 +7,7 @@ Windows performance and low-latency toolkit (Fortnite focus).
 Open **Windows PowerShell** and paste:
 
 ```powershell
-irm https://raw.githubusercontent.com/Kingmevinu25/Frenzy-Extreme-Panel/main/Frenzy.ps1 | iex
+irm https://raw.githubusercontent.com/Kingmevinu25/FrenzyTweaksEXTREME/main/Frenzy.ps1 | iex
 ```
 
 Accept the Administrator prompt. A ~12 second loader runs while the latest version downloads, then the app opens.

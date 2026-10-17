@@ -2,7 +2,7 @@
 <#
   FRENZY TWEAKS - web loader
   Run from PowerShell:
-      irm https://raw.githubusercontent.com/Kingmevinu25/Frenzy-Extreme-Panel/main/Frenzy.ps1 | iex
+      irm https://raw.githubusercontent.com/Kingmevinu25/FrenzyTweaksEXTREME/main/Frenzy.ps1 | iex
 
   What it does: elevates, shows the animated FRENZY splash (~12 s), downloads the latest
   FrenzyApp.ps1 from GitHub in the background, caches it, then launches the app.
@@ -12,7 +12,7 @@ $ErrorActionPreference = 'Stop'
 
 # ===================== EDIT IF YOUR REPO CHANGES =====================
 $GH_USER   = 'Kingmevinu25'
-$GH_REPO   = 'Frenzy-Extreme-Panel'
+$GH_REPO   = 'FrenzyTweaksEXTREME'
 $GH_BRANCH = 'main'
 $MinSeconds = 12.5          # splash length (10-15 s looks best)
 # =====================================================================
